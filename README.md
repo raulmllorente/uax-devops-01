@@ -1,2 +1,2 @@
 # uax-devops-01
-Uax Devops Práctica 2
+UAX Devops Práctica 2
